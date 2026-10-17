@@ -2,8 +2,6 @@
 
 Zenon is a small Windows Python helper for the fishing minigame in a custom Roblox game. It watches a selected part of the screen, helps keep the bobber in the orange range, and can click when the cast-ready turquoise cue appears.
 
-> Use this with your own Roblox experience and follow Roblox's rules. Keep the game visible and attended while Zenon is running.
-
 ## What it does
 
 - Tracks the bobber and orange target range in a screen area you select.
